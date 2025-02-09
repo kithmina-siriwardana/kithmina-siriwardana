@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, NestJS, and ASP.NET Core**
 
-- 💬 Ask me about **React, Node, and Java**
+- 💬 Ask me about **Node and React**
 
 - 📫 How to reach me **kithminasiriwardana13@gmail.com**
 
