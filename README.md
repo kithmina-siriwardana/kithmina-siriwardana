@@ -92,6 +92,7 @@ const kithmina = {
 </p>
 
 <!-- ───────────────────────────── SNAKE ───────────────────────────── -->
+<!-- Hidden until the snake workflow has run once and created the `output` branch.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kithmina-siriwardana/kithmina-siriwardana/output/github-snake-dark.svg" />
@@ -99,6 +100,7 @@ const kithmina = {
     <img src="https://raw.githubusercontent.com/kithmina-siriwardana/kithmina-siriwardana/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
   </picture>
 </p>
+-->
 
 <!-- ───────────────────────────── FOOTER ───────────────────────────── -->
 <p align="center">
